@@ -1,4 +1,8 @@
-## 👋 Hi there
+## 👋 Hi there, I'm Daniele Di Bella
+* 🎓 MSc in Quantitative Biology at University of Milan (UniMI).
+* 🎓 BSc in Biology at University of Milan (UniMI)
+* 👨‍💻 Focusing on Computational Biology, Bioinformatics, Polar Biology, and Ecology.
+* ✨ Passionate about botany, zoology, hiking and writing.
 
 ## 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/daniele-di-bella)
