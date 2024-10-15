@@ -11,7 +11,7 @@
 
 ## 🔨 Projects highlights
 * [`Assimilation of OLCI and TROPOMI measurements`](https://github.com/Daniele-Di-Bella/synergy): Creation of more accurate PFTs spatiotemporal distribution maps from the assimilation of OLCI and TROPOMI measurements. This code was the core of my thesis project and it was developed at AWI's [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html) (Bremerhaven, Germany).
-* [`Scraping and evaluation of Google Scholar papers`](https://github.com/Daniele-Di-Bella/scholar_scraper): A CLI app that, given some keywords from the user, returns a set of academic papers that match these keywords. Thanks to the implementation of generative AI, to each paper is assigned a score that represents how much the paper aligns with the user's interests.
+* [`Scraping and AI evaluation of Google Scholar papers`](https://github.com/Daniele-Di-Bella/scholar_scraper): A CLI app that, given some keywords from the user, returns a set of academic papers that match these keywords. Thanks to the implementation of generative AI, to each paper is assigned a score that represents how much the paper aligns with the user's interests.
 <!--
 **Daniele-Di-Bella/Daniele-Di-Bella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
