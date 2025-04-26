@@ -9,8 +9,10 @@
 * [`Scraping and AI evaluation of Google Scholar papers`](https://github.com/Daniele-Di-Bella/scholar_scraper): A CLI app that, given some keywords from the user, returns a set of academic papers that match these keywords. Thanks to the implementation of generative AI, to each paper is assigned a score that represents how much the paper aligns with the user's interests.
 
 ## 📚 Publications & Presentations
+<!--
 - **[Title of Publication](link):** Brief description or your role.
 - **Conference Talk:** Presented at [Conference Name, Year](link).
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark)
 
@@ -21,17 +23,3 @@
 [![Personal](https://img.shields.io/badge/Personal-Gmail-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-di-bella) 
 [![GitLab](https://img.shields.io/badge/GitLab-%23FF5733.svg?logo=gitlab&logoColor=white)](https://gitlab.awi.de/dadibe001)
-<!--
-**Daniele-Di-Bella/Daniele-Di-Bella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
