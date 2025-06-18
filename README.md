@@ -20,9 +20,9 @@
   - Thesis student, 
 
 ## 🚀 Selected Projects <a name="selected-projects"></a>
-- **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**
+- **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
   RAG application to generate text starting from user's Zotero library and to measure the efficacy of RAG-powered LLMs in scientific communication.
-- **[TangibleProteins](https://github.com/Daniele-Di-Bella/TangibleProteins) (PVT)**
+- **[TangibleProteins](https://github.com/Daniele-Di-Bella/TangibleProteins) (PVT)**  
   Jupyter notebook pipeline to process structural data (PDB or mmCIF) and produce ready-to-3D-print files.
 - **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
   Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
