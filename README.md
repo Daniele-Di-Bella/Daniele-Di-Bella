@@ -33,7 +33,7 @@
 ## 📚 Publications & Talks <a name="publications-talks"></a>
 - **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
   Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf)  
-- **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*
+- **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*  
   Presented at [Conferenza GARR 2025, 2025](https://conf25.garr.it/it/speaker/daniele-di-bella)
 <!--
 - **[Title of Publication](link):** Brief description or your role.
