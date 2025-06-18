@@ -9,6 +9,7 @@
 * [`Scraping and AI evaluation of Google Scholar papers`](https://github.com/Daniele-Di-Bella/scholar_scraper): A CLI app that, given some keywords from the user, returns a set of academic papers that match these keywords. Thanks to the implementation of generative AI, to each paper is assigned a score that represents how much the paper aligns with the user's interests.
 
 ## 📚 Publications & Presentations
+- **TDarkRAG: LLMS in the Service of Rare Disease Communication:** Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf).
 <!--
 - **[Title of Publication](link):** Brief description or your role.
 - **Conference Talk:** Presented at [Conference Name, Year](link).
