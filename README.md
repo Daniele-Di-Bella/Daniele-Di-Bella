@@ -12,8 +12,8 @@
 
 ## 🧑‍🎓 About Me <a name="about-me"></a>
 - **Positions**
-  - Research Fellow — [Roversi Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano, IT 
-  - Thesis student — [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html), AWI, Bremerhaven, DE
+  - Research Fellow — [Roversi Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano, :it: 
+  - Thesis student — [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html), AWI, Bremerhaven, :de:
 - **Education**  
   - MSc in Quantitative Biology, University of Milan (UniMI)  
   - BSc in Biology, University of Milan (UniMI)   
