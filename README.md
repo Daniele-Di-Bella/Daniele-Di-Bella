@@ -2,7 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&layout=compact&theme=dark)
 
 ## 👋 Hi, I’m Daniele Di Bella
-> Bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
+> Bioinformatician passionate about Computational and Polar Biology, Ecology, and AI.
 
 ## 📖 Table of Contents
 - [About Me](#about-me)  
