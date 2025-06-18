@@ -44,4 +44,3 @@
 [![Institutional](https://img.shields.io/badge/Institutional-CNR-green?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@ibba.cnr.it)
 [![Personal](https://img.shields.io/badge/Personal-Gmail-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-di-bella) 
-[![GitLab](https://img.shields.io/badge/GitLab-%23FF5733.svg?logo=gitlab&logoColor=white)](https://gitlab.awi.de/dadibe001)
