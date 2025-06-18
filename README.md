@@ -1,36 +1,38 @@
 <!-- Badges -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&layout=compact&theme=dark)
 
 ## 👋 Hi, I’m Daniele Di Bella
-> Bioinformatician passionate about Computational Biology, Structural Biology, Polar Ecology, and AI.
+> Bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
 
 ## 📖 Table of Contents
 - [About Me](#about-me)  
 - [Selected Projects](#selected-projects)  
-- [Publications & Talks](#publications-&-talks)  
+- [Publications & Talks](#publications-talks)  
 - [Connect with Me](#connect-with-me)
 
 ## 🧑‍🎓 About Me <a name="about-me"></a>
 - **Education**  
   - MSc in Quantitative Biology, University of Milan (UniMI)  
-  - BSc in Biology, University of Milan (UniMI)  
-- **Skills & Tools**  
-  - Python, R, Snakemake, TensorFlow, PyTorch  
-  - BioPython, MDAnalysis, QGIS  
+  - BSc in Biology, University of Milan (UniMI)   
 - **Interests**  
-  - Botany, Zoology, Arctic & Antarctic research, Running, Hiking
+  - Arctic & Antarctic research, Botany, Zoology, Running, Hiking, Reading and Writing
+- **Positions**  
+  - Thesis student, 
 
-## 🚀 Selected Projects <a name="selected-project"></a>
-- **[synergy](https://github.com/Daniele-Di-Bella/synergy)** *(Private)*  
-  Improved PFT spatiotemporal maps by assimilating OLCI & TROPOMI data at AWI’s PYTOOPTICS lab (Bremerhaven).  
+## 🚀 Selected Projects <a name="selected-projects"></a>
+- **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**
+  RAG application to generate text starting from user's Zotero library and to measure the efficacy of RAG-powered LLMs in scientific communication.
+- **[TangibleProteins](https://github.com/Daniele-Di-Bella/TangibleProteins) (PVT)**
+  Jupyter notebook pipeline to process structural data (PDB or mmCIF) and produce ready-to-3D-print files.
+- **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
+  Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
 - **[scholar_scraper](https://github.com/Daniele-Di-Bella/scholar_scraper)**  
   CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords.
 
-## 📚 Publications & Talks <a name="publication-&-talks"></a>
-- **(Poster)** TDarkRAG: LLMs in the Service of Rare Disease Communication  
+## 📚 Publications & Talks <a name="publications-talks"></a>
+- **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
   Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf)  
-- **(Talk)** ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica  
+- **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*
   Presented at [Conferenza GARR 2025, 2025](https://conf25.garr.it/it/speaker/daniele-di-bella)
 <!--
 - **[Title of Publication](link):** Brief description or your role.
