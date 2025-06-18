@@ -16,8 +16,9 @@
   - BSc in Biology, University of Milan (UniMI)   
 - **Interests**  
   - Arctic & Antarctic research, Botany, Zoology, Running, Hiking, Reading and Writing
-- **Positions**  
-  - Thesis student, 
+- **Positions**
+  - Research Fellow -- CNR-IBBA, Milano, IT 
+  - Thesis student -- [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html], AWI, Bremerhaven, DE
 
 ## 🚀 Selected Projects <a name="selected-projects"></a>
 - **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
