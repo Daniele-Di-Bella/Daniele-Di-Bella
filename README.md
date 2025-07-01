@@ -7,7 +7,7 @@
 ## 📖 Table of Contents
 - [About Me](#about-me)  
 - [Selected Projects](#selected-projects)  
-- [Publications & Talks](#publications-talks)  
+- [Publications, Talks and Posters](#publications-talks-posters)  
 - [Connect with Me](#connect-with-me)
 
 ## 🧑‍🎓 About Me <a name="about-me"></a>
@@ -30,7 +30,7 @@
 - **[scholar_scraper](https://github.com/Daniele-Di-Bella/scholar_scraper)**  
   CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords. It was produced as a coding exercise.
 
-## 📚 Publications & Talks <a name="publications-talks"></a>
+## 📚 Publications, Talks and Posters <a name="publications-talks-posters"></a>
 - **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*  
   Presented at [Conferenza GARR 2025, 2025](https://conf25.garr.it/it/speaker/daniele-di-bella)
 - **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
