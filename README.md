@@ -28,7 +28,7 @@
 - **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
   Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
 - **[scholar_scraper](https://github.com/Daniele-Di-Bella/scholar_scraper)**  
-  CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords.
+  CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords. It was produced as a coding exercise.
 
 ## 📚 Publications & Talks <a name="publications-talks"></a>
 - **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
