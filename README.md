@@ -31,10 +31,12 @@
   CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords. It was produced as a coding exercise.
 
 ## 📚 Publications & Talks <a name="publications-talks"></a>
-- **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
-  Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf)  
 - **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*  
   Presented at [Conferenza GARR 2025, 2025](https://conf25.garr.it/it/speaker/daniele-di-bella)
+- **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
+  Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf)
+- **(Thesis)** *Calculation of long-term synergies of PFTs from OLCI and TROPOMI measurements*  
+  Published in [EPIC.awi.de, 2024](https://epic.awi.de/id/eprint/59802/)
 <!--
 - **[Title of Publication](link):** Brief description or your role.
 - **Conference Talk:** Presented at [Conference Name, Year](link).
