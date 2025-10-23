@@ -2,23 +2,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&layout=compact&theme=dark)
 
 ## 👋 Hi, I’m Daniele Di Bella
-> Bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
-
-## 📖 Table of Contents
-- [About Me](#about-me)  
-- [Selected Projects](#selected-projects)  
-- [Publications, Talks and Posters](#publications-talks-posters)  
-- [Connect with Me](#connect-with-me)
+I'm a bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
 
 ## 🧑‍🎓 About Me <a name="about-me"></a>
-- **Positions**
-  - Research Fellow — [Roversi Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano, :it: 
+- **Experience**
+  - Research Fellow — [OSR Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano, :it: 
   - Thesis student — [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html), AWI, Bremerhaven, :de:
 - **Education**  
   - MSc in Quantitative Biology, University of Milan (UniMI)  
   - BSc in Biology, University of Milan (UniMI)   
-- **Interests**  
-  - Arctic & Antarctic research, Botany, Zoology, Running, Hiking, Reading and Writing
  
 ## 🚀 Selected Projects <a name="selected-projects"></a>
 - **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
@@ -27,8 +19,6 @@
   Jupyter notebook pipeline to process structural data (PDB or mmCIF) and produce ready-to-3D-print files.
 - **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
   Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
-- **[scholar_scraper](https://github.com/Daniele-Di-Bella/scholar_scraper)**  
-  CLI tool that scrapes Google Scholar and leverages generative AI to rank papers by relevance to user-defined keywords. It was produced as a coding exercise.
 
 ## 📚 Publications, Talks and Posters <a name="publications-talks-posters"></a>
 - **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*  
