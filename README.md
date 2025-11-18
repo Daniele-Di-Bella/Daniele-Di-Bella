@@ -4,9 +4,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark" />
     </td>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&theme=dark" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -21,7 +21,7 @@ I'm a bioinformatician passionate about Computational Biology, Polar Ecology, an
   - MSc in Quantitative Biology, University of Milan (UniMI)  
   - BSc in Biology, University of Milan (UniMI)   
  
-## 🚀 Selected Projects <a name="selected-projects"></a>
+## 🚀 Some Projects <a name="selected-projects"></a>
 - **[ER_glycoforms_fates_modelling](https://github.com/Daniele-Di-Bella/ER_glycoforms_fates_modelling)**  
   Colab notebook that operationalizes a conceptual framework to model the fate of glycoproteins in the endoplasmic reticulum.
 - **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
@@ -31,19 +31,8 @@ I'm a bioinformatician passionate about Computational Biology, Polar Ecology, an
 - **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
   Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
 
-## 📚 Publications, Talks and Posters <a name="publications-talks-posters"></a>
-- **(Talk)** *ARGOS: Retrieval-Augmented Generation per la comunicazione scientifica*  
-  Presented at [Conferenza GARR 2025, 2025](https://conf25.garr.it/it/speaker/daniele-di-bella)
-- **(Poster)** *TDarkRAG: LLMs in the Service of Rare Disease Communication*  
-  Presented at [XXII Telethon Scientific Convention, 2025](https://www.conventionfondazionetelethon.it/pdf/XXIITelethonConvention_2025_Book_of_Event.pdf)
-- **(Thesis)** *Calculation of long-term synergies of PFTs from OLCI and TROPOMI measurements*  
-  Published in [EPIC.awi.de, 2024](https://epic.awi.de/id/eprint/59802/)
-<!--
-- **[Title of Publication](link):** Brief description or your role.
-- **Conference Talk:** Presented at [Conference Name, Year](link).
--->
-
 ## 📫 Connect with me <a name="connect-with-me"></a>
 [![Institutional](https://img.shields.io/badge/Institutional-CNR-green?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@ibba.cnr.it)
 [![Personal](https://img.shields.io/badge/Personal-Gmail-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-di-bella) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniele-di-bella)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/danieledibella.bsky.social)
