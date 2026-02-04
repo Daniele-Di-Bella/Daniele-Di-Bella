@@ -1,14 +1,18 @@
 <!-- Badges -->
+<!--
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark" />
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
     </td>
     <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&theme=dark" />
     </td> -->
+  <!--
   </tr>
-</table>
+</table> 
+-->
 
 ## 👋 Hi, I’m Daniele Di Bella
 I'm a bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
