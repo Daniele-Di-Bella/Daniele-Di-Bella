@@ -26,7 +26,7 @@ I'm a bioinformatician passionate about Computational Biology, Polar Ecology, an
   - BSc in Biology, University of Milan (UniMI)   
  
 ## 🚀 Some Projects <a name="selected-projects"></a>
-- **[ER_glycoforms_fates_modelling](https://github.com/Daniele-Di-Bella/ER_glycoforms_fates_modelling)**  
+- **[ERGO](https://github.com/Daniele-Di-Bella/ERGO)**  
   Colab notebook that operationalizes a conceptual framework to model the fate of glycoproteins in the endoplasmic reticulum.
 - **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
   RAG application to generate text starting from user's Zotero library and to measure the efficacy of RAG-powered LLMs in scientific communication.
