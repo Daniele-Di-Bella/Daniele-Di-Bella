@@ -1,42 +1,75 @@
-<!-- Badges -->
-<!--
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=dark" />
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-    </td>
-    <!-- <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&theme=dark" />
-    </td> -->
-  <!--
-  </tr>
-</table> 
--->
+<div align="center">
 
-## 👋 Hi, I’m Daniele Di Bella
-I'm a bioinformatician passionate about Computational Biology, Polar Ecology, and AI.
+  <h1>👋 Hi, I'm Daniele Di Bella</h1>
+  
+  <!-- Dynamic Typing Header -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3FB950&background=161B22&center=true&vCenter=true&width=550&height=40&lines=Bioinformatics+%26+Computational+Biology;Polar+Ecology+%26+Microbiology;Glycoprotein+Structural+Biology" alt="Typing SVG" />
+    </a>
+  </p>
 
-## 🧑‍🎓 About Me <a name="about-me"></a>
+</div>
+
+---
+
+### 🧑‍🎓 About Me
+
 - **Experience**
-  - Research Fellow — [OSR Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano, :it: 
-  - Thesis student — [PYTOOPTICS lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html), AWI, Bremerhaven, :de:
+  - 🧊 **PhD Student** — [Polar Sciences PhD School](https://www.unive.it/web/en/182/home), Ca' Foscari University Venice (UniVE)/CNR-ISP, Venice 🇮🇹
+  - 🔬 **Research Fellow** — [OSR Lab](https://ibba.cnr.it/staff/pietro-roversi/), CNR-IBBA, Milano 🇮🇹
+  - 🛰️ **Thesis Student** — [PHYTOOPTICS Lab](https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-optics.html), AWI, Bremerhaven 🇩🇪
 - **Education**  
-  - MSc in Quantitative Biology, University of Milan (UniMI)  
-  - BSc in Biology, University of Milan (UniMI)   
- 
-## 🚀 Some Projects <a name="selected-projects"></a>
-- **[ERGO](https://github.com/Daniele-Di-Bella/ERGO)**  
-  Colab notebook that operationalizes a conceptual framework to model the fate of glycoproteins in the endoplasmic reticulum.
-- **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)**  
-  RAG application to generate text starting from user's Zotero library and to measure the efficacy of RAG-powered LLMs in scientific communication.
-- **[TangibleProteins](https://github.com/Daniele-Di-Bella/TangibleProteins) (PVT)**  
-  Jupyter notebook pipeline to process structural data (PDB or mmCIF) and produce ready-to-3D-print files.
-- **[synergy](https://github.com/Daniele-Di-Bella/synergy) (PVT)**  
-  Data assimilation algorithm to improve phytoplankton functional type spatiotemporal map creation by assimilating OLCI (Sentinel-3) and TROPOMI (Sentinel-5p) data. 
+  - 🎓 **MSc in Quantitative Biology** — University of Milan (UniMI)
+  - 🎓 **BSc in Biology** — University of Milan (UniMI)   
 
-## 📫 Connect with me <a name="connect-with-me"></a>
-[![Institutional](https://img.shields.io/badge/Institutional-CNR-green?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@ibba.cnr.it)
-[![Personal](https://img.shields.io/badge/Personal-Gmail-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniele-di-bella)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/danieledibella.bsky.social)
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,jupyter,bash,latex,vscode&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Key Stack |
+| :--- | :--- | :--- |
+| **[ERGO](https://github.com/Daniele-Di-Bella/ERGO)** | Colab notebook operationalizing a conceptual framework to model glycoprotein fate in the ER. | `Python` `Google Colab` `Glycobiology` |
+| **[ARGOS](https://github.com/Daniele-Di-Bella/ARGOS)** | RAG application generating text from Zotero libraries and benchmarking LLM efficacy in science communication. | `Python` `LLMs` `RAG` `Zotero` |
+| **[TangibleProteins](https://github.com/Daniele-Di-Bella/TangibleProteins)** | Jupyter pipeline processing structural data (PDB/mmCIF) into ready-to-3D-print files. | `Python` `Jupyter` `3D Printing` |
+| **[synergy](https://github.com/Daniele-Di-Bella/synergy)** | Data assimilation algorithm improving phytoplankton functional type maps using OLCI & TROPOMI satellite data. | `R` `Data Assimilation` `Remote Sensing` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Daniele-Di-Bella">
+    <img src="https://github-readme-stats.vercel.app/api?username=Daniele-Di-Bella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Di-Bella&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@ibba.cnr.it">
+    <img src="https://img.shields.io/badge/Institutional-CNR-007A3D?style=flat&logo=gmail&logoColor=white" alt="Institutional Email" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniele-di-bella">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://bsky.app/profile/danieledibella.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+</p>
