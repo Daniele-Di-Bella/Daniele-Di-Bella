@@ -60,8 +60,11 @@
 ### 📫 Connect With Me
 
 <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@unive.it">
+    <img src="https://img.shields.io/badge/Institutional-UniVE-EA4335?style=flat&logo=gmail&logoColor=white" alt="Institutional Email" />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella@ibba.cnr.it">
-    <img src="https://img.shields.io/badge/Institutional-CNR-007A3D?style=flat&logo=gmail&logoColor=white" alt="Institutional Email" />
+    <img src="https://img.shields.io/badge/Institutional-CNR_IBBA-007A3D?style=flat&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.dibella99@gmail.com">
     <img src="https://img.shields.io/badge/Personal-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Personal Email" />
